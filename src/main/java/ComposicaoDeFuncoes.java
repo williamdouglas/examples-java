@@ -1,8 +1,10 @@
+package main.java;
+
 import java.util.Arrays;
 
 public class ComposicaoDeFuncoes {
     public static void main(String[] args) {
-        int[] valores = { 0, 1, 2, 3, 4 };
+        int[] valores = { 1, 2, 3, 4 };
 
         // funcional
         Arrays.stream(valores)
