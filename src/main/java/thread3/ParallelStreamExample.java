@@ -4,8 +4,6 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.IntStream;
 
-import javax.swing.GroupLayout.ParallelGroup;
-
 public class ParallelStreamExample {
     public static void main(String[] args) {
         long inicio = System.currentTimeMillis();
